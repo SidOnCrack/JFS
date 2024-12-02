@@ -12,9 +12,8 @@
     line-height: 1.6;
   }
   
- 
+
   .hero {
-    background: "AIRTEL.jpg" no-repeat center center/cover;
     height: 100vh;
     display: flex;
     justify-content: center;
